@@ -13,10 +13,14 @@
     font-weight: bold;
     font-size: 1.5rem;
     margin: 1rem 0;
+    padding-left: 40px;
   }
   
   .actions {
     text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    
   }
   
   .actions button {
